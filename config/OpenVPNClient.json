@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\OpenVPN\\config",
+                "C:\\Program Files*\\OpenVPN\\config",
+                "%USERPROFILE%\\OpenVPN\\log"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "OpenVPN 서버와 연결하여 VPN을 통해 안전하고 암호화된 인터넷 연결을 가능하게 하는 클라이언트 소프트웨어"
+            ]
+        }
+    ]
+}

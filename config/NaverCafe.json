@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Naver\\Naver Cafe"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Naver의 온라인 커뮤니티 플랫폼"
+            ]
+        }
+    ]
+}

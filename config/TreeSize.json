@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\JAM Software\\TreeSize"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "디스크 공간 사용을 시각적으로 분석하고 관리할 수 있는 소프트웨어"
+            ]
+        }
+    ]
+}

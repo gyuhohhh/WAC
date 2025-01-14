@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\SpeedProject\\SpeedCommander 19"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Windows에서 동작하는 파일 관리자 소프트웨어"
+            ]
+        }
+    ]
+}

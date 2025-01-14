@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\PeaZip"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "오픈 소스 파일 압축 및 관리 소프트웨어"
+            ]
+        }
+    ]
+}

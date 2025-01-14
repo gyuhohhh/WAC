@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Google\\Drive",
+                "%USERPROFILE%\\AppData\\Local\\Google\\DriveFS",
+                "%USERPROFILE%\\Google Drive*"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Google에서 제공하는 클라우드 스토리지 서비스"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+ {
+    "directories": [
+        {
+            "source_directory": [
+               "%SYSTEMROOT%\\System32\\config\\Syscache.hve"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 시스템의 캐시된 정보와 관련된 데이터를 저장하는 레지스트리 하이브 파일"
+            ]
+            
+        }
+    ]
+}

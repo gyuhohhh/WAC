@@ -1,0 +1,26 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\nicotine\\logs",
+                "%USERPROFILE%\\AppData\\Roaming\\nicotine\\incomplete",
+                "%USERPORFILE%\\AppData\\Roaming\\nicotine\\buddyfiles.db",
+                "%USERPORFILE%\\AppData\\Roaming\\nicotine\\buddystreams.db",
+                "%USERPORFILE%\\AppData\\Roaming\\nicotine\\buddymtimes.db",
+                "%USERPORFILE%\\AppData\\Roaming\\nicotine\\buddyfileindex.db",
+                "%USERPORFILE%\\AppData\\Roaming\\nicotine\\buddywordindex.db",
+                "%USERPORFILE%\\AppData\\Roaming\\nicotine\\config",
+                "%USERPORFILE%\\AppData\\Roaming\\nicotine\\usershares",
+                "%USERPORFILE%\\AppData\\Roaming\\nicotine\\downloads.json*",
+                "%USERPORFILE%\\AppData\\Roaming\\nicotine\\uploads.json*"
+            ],
+            "category" :[
+                "P2P"
+            ],
+            
+            "contents" : [
+                "Soulseek 파일 공유 네트워크에서 사용되는 오픈 소스 P2P 파일 공유 클라이언트"
+            ]
+        }
+    ]
+}

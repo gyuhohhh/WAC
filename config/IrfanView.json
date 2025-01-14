@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\IrfanView\\i_view32.ini"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Windows용 무료 이미지 뷰어 및 편집 프로그램"
+            ]
+        }
+    ]
+}

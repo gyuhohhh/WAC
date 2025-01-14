@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\NZBGet\\nzbget.log",
+                "%PROGRAMDATA%\\NZBGet\nzb"
+            ],
+            "category" :[
+                "P2P"
+            ],
+            
+            "contents" : [
+                "Usenet에서 파일 다운로드하기 위한 고성능 Usenet 클라이언트"
+            ]
+        }
+    ]
+}

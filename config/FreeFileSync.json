@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\FreeFileSync\\Logs"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "무료 오픈 소스 폴더 비교 및 동기화 소프트웨어"
+            ]
+        }
+    ]
+}

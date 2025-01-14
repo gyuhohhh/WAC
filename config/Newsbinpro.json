@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Newsbin\\Downloaded.db3"
+            ],
+            "category" :[
+                "P2P"
+            ],
+            
+            "contents" : [
+                "Usenet 분산 네트워크에서 파일 다운로드에 사용되는 Usenet 뉴스 그룹 클라이언트"
+            ]
+        }
+    ]
+}

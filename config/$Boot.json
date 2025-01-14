@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\$Boot"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "NTFS 파일시스템에서 부트 로더와 관련된 정보를 저장하며, 주로 부팅 프로세스와 관련된 파일을 포함하는 MFT 파일"
+            ]
+            
+        }
+    ]
+}

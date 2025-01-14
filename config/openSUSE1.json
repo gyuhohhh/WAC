@@ -1,0 +1,21 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Packages\\46932SUSE.openSUSELeap*\\LocalState\\rootfs\\etc",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\46932SUSE.openSUSELeap*\\LocalState\\rootfs\\.bash_history",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\46932SUSE.openSUSELeap*\\LocalState\\rootfs\\.bashrc",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\46932SUSE.openSUSELeap*\\LocalState\\rootfs\\.profile",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\46932SUSE.openSUSELeap*\\LocalState\\rootfs\\root"
+            ],
+            "category" :[
+                "WSL"
+            ],
+            
+            "contents" : [
+                "WSL(Windows Subsystem Linux)의 openSUSE 서비스",
+                "이 openSUSE는 WSLv1 을 사용하고 있습니다"
+            ]
+        }
+    ]
+}

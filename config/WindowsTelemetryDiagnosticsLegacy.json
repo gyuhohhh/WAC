@@ -1,0 +1,17 @@
+ {
+    "directories": [
+        {
+            "source_directory": [
+               "%PROGRAMDATA%\\Microsoft\\Diagnosis\\EventStore.db*"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows의 진단 및 문제 해결 데이터를 저장하는 DB 파일로, 다양한 이벤트를 추적할 수 있음"
+            ]
+            
+        }
+    ]
+}

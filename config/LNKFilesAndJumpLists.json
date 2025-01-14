@@ -1,0 +1,22 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+               "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Recent",
+               "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Office\\Recent",
+               "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\*.LNK",
+               "%USERPROFILE%\\Desktop\\*.LNK",
+               "%PROGRAMDATA%\\Microsoft\\Windows\\Start Menu\\Programs\\*.LNK"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "LNK File은 Windows에서 바로가기 파일 (최근에 열었던 파일을 저장할 때 LNK File 형태로 저장됨)",
+                "JumpList는 Windows에서 최근에 열거나 자주 사용하는 파일과 폴더, 작업 등을 빠르게 접근할 수 있게 해주는 기능"
+            ]
+            
+        }
+    ]
+}

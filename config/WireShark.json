@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\Documents\\*.pcap*",
+                "%USERPROFILE%\\AppData\\Roaming\\Wireshark",
+                "%USERPROFILE%\\AppData\\Local\\Wireshark"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "오픈 소스 네트워크 프로토콜 분석기"
+            ]
+        }
+    ]
+}

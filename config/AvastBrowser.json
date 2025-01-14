@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Avast Software\\Browser\\User Data\\Default"
+            ],
+            
+            "category" :[
+                "Browser"
+            ],
+            
+            "contents" : [
+                "Avast의 AvastBrowser 브라우저"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+               "%USERPROFILE%\\AppData\\Local\\Microsoft\\Office\\*\\OfficeFileCache"
+
+
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Microsoft Office의 Offline Files 기능과 관련된 캐시 파일"
+            ]
+            
+        }
+    ]
+}

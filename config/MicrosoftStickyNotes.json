@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\StickyNotes",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\Microsoft.MicrosoftStickyNotes*\\LocalState"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Windows에서 제공하는 디지털 메모 어플리케이션"
+            ]
+        }
+    ]
+}

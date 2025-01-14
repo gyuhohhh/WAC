@@ -1,0 +1,19 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default",
+                "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Protect\\*"
+            ],
+            
+            "category" :[
+                "Browser"
+            ],
+            
+            "contents" : [
+                "Google의 Chrome 브라우저"
+            ]
+            
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Packages\\TheDebianProject.DebianGNULinux_*\\LocalState"
+            ],
+            "category" :[
+                "WSL"
+            ],
+            
+            "contents" : [
+                "WSL(Windows Subsystem Linux)의 Debain 서비스",
+                "이 Debain은 WSLv2 를 사용하고 있습니다"
+            ]
+        }
+    ]
+}

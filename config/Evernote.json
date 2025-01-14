@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Evernote\\Evernote\\Databases\\*.accounts",
+                "%USERPROFILE%\\AppData\\Local\\Evernote\\Evernote\\Databases\\*.exb",
+                "%USERPROFILE%\\AppData\\Local\\Evernote\\Evernote\\Databases\\*.exb.snippets"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "강력한 노트 작성 및 관리를 위한 클라우드 기반 생산성 소프트웨어"
+            ]
+        }
+    ]
+}

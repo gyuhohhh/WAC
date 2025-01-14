@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "logs\\*.log"
+            ],
+            "category" :[
+                "Logs"
+            ],
+            
+            "contents" : [
+                "Windows용 Apache 웹 서비스의 Log 파일"
+            ]
+        }
+    ]
+}

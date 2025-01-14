@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\OneCommander",
+                "%USERPROFILE%\\AppData\\Local\\Apps\\2.0\\*\\*\\onec*"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Windows용 파일 관리자 및 탭 기반 파일 탐색기"
+            ]
+        }
+    ]
+}

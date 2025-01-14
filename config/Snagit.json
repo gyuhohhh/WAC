@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\TechSmith\\Snagit\\DataStore"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "TechSmith의 스크린 캡처와 비디오 녹화를 위한 소프트웨어"
+            ]
+        }
+    ]
+}

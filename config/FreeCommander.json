@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\FreeCommanderXE\\Settings",
+                "%USERPROFILE%\\AppData\\Local\\Temp\\fc*.log",
+                "%USERPROFILE%\\AppData\\Local\\Temp\\FreeCommander*"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Windows에서 사용 가능한 무료 파일 관리자 소프트웨어"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\Program Files*\\ScreenConnect\\App_Data",
+                "%PROGRAMDATA%\\ScreenConnect Client*\\user.config"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "원격 지원 및 원격 데스크탑 솔루션, ConnectWise Control 이라는 이름으로 알려져 있음"
+            ]
+        }
+    ]
+}

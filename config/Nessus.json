@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\Tenable\\Nessus\\conf",
+                "%PROGRAMDATA%\\Tenable\\Nessus\\nessus\\logs"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Tenable의 보안 취약점 스캐너"
+            ]
+        }
+    ]
+}

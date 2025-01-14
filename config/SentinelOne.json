@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\sentinel\\logs"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "Sentinel의 엔드포인트 보안 솔루션"
+            ]
+        }
+    ]
+}

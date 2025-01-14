@@ -1,0 +1,20 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Slack\\IndexedDB",
+                "%USERPROFILE%\\AppData\\Roaming\\Slack\\Local Storage\\leveldb",
+                "%USERPROFILE%\\AppData\\Roaming\\Slack\\logs",
+                "%USERPROFILE%\\AppData\\Roaming\\Slack\\Cache",
+                "%USERPROFILE%\\AppData\\Roaming\\Slack\\storage"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "팀 커뮤니케이션 및 협업을 위한 플랫폼"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\Ammyy"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "원격 데스크탑 소프트웨어"
+            ]
+            
+        }
+    ]
+}

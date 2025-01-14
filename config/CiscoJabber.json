@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Cisco\\Unified\\Communications\\Jabber\\CSF\\History"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Cisco의 통합 커뮤니케이션(UC) 플랫폼"
+            ]
+            
+        }
+    ]
+}

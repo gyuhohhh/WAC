@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\VMware"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "VMware의 가상화 소프트웨어 및 클라우드 컴퓨팅 솔루션",
+                "이 아티팩트는 VMware의 Inventory 파일입니다."
+            ]
+        }
+    ]
+}

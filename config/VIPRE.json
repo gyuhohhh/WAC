@@ -1,0 +1,19 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\VIPRE Business Agent\\Logs",
+                "%USERPROFILE%\\AppData\\Roaming\\VIPRE Business",
+                "%USERPROFILE%\\AppData\\Roaming\\GFI Software\\AntiMalware\\Logs",
+                "%USERPROFILE%\\AppData\\Roaming\\Sunbelt Software\\AntiMalware\\Logs"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "악성코드, 바이럿, 스파이웨어 등을 탐지하고 차단하는 안티바이러스 소프트웨어"
+            ]
+        }
+    ]
+}

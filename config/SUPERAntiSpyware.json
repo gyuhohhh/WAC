@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\SUPERAntiSpyware\\Logs"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "악성 소프트웨어와 스파이웨어를 탐지하고 제거하는 보안 프로그램"
+            ]
+        }
+    ]
+}

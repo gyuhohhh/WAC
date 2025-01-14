@@ -1,0 +1,21 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Sun\\Java\\Deployment\\cache\\*\\*\\*.idx",
+                "%USERPROFILE%\\AppData\\LocalLow\\Sun\\Java\\Deployment\\cache\\*\\*\\*.idx",
+                "%SYSTEMROOT%\\System32\\config\\systemprofile\\AppData\\Local\\Sun\\Java\\Deployment\\cache\\*\\*\\*.idx",
+                "%SYSTEMROOT%\\System32\\config\\systemprofile\\AppData\\LocalLow\\Sun\\Java\\Deployment\\cache\\*\\*\\*.idx",
+                "%SYSTEMROOT%\\SysWOW64\\config\\systemprofile\\AppData\\Local\\Sun\\Java\\Deployment\\cache\\*\\*\\*.idx",
+                "%SYSTEMROOT%\\SysWOW64\\config\\systemprofile\\AppData\\LocalLow\\Sun\\Java\\Deployment\\cache\\*\\*\\*.idx"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Java 기반 어플리케이션에서 웹 캐싱을 관리하는 시스템"
+            ]
+        }
+    ]
+}

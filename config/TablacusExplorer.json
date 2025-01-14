@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Temp\\*\\config"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "탭 기반의 파일 탐색기 프로그램"
+            ]
+        }
+    ]
+}

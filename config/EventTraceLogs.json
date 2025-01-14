@@ -1,0 +1,22 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%SYSTEMROOT%\\System32\\WDI\\LogFiles\\*.etl*",
+                "%SYSTEMROOT%\\System32\\WDI\\{*",
+                "%SYSTEMROOT%\\System32\\LogFiles\\WMI",
+                "%SYSTEMROOT%\\System32\\SleepStudy",
+                "%PROGRAMDATA%\\Microsoft\\Windwos\\PowerEfficiency Diagnostics\\energy-ntkl.etl",
+                "%SYSTEMROOT%\\ServiceProfiles\\NetworkService\\AppData\\Local\\Microsoft\\Windows\\DeliveryOptimization\\Logs\\*.etl*"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 성능 및 진단 데이터를 수집하는 로그"
+            ]
+            
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\WinSCP.ini",
+                "%USERPROFILE%\\Documents\\WinSCP.log",
+                "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\WinSCP*"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Windows용 오픈 소스 SFTP, FTP, SCP 클라이언트"
+            ]
+        }
+    ]
+}

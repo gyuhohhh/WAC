@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\JDownloader 2.0\\cfg"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "무료 오픈 소스 다운로드 관리 프로그램"
+            ]
+        }
+    ]
+}

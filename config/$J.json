@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\$Extend\\$UsnJrnl\\$J"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "NTFS 파일시스템에서 파일 및 디렉토리에 대한 변경 사항을 추적하는 로그"
+            ]
+            
+        }
+    ]
+}

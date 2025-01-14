@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\$MFT"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "NTFS 파일시스템에서 파일 및 디렉터리 정보를 관리하는 핵심 데이터 구조"
+            ]
+            
+        }
+    ]
+}

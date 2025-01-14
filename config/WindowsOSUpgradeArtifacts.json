@@ -1,0 +1,21 @@
+ {
+    "directories": [
+        {
+            "source_directory": [
+                "%SYSTEMROOT%\\Panther\\Setupact.log",
+                "%SYSTEMROOT%\\Panther\\MigLog.xml",
+                "%SYSTEMROOT%\\Panther\\Rollback\\FolderMoveLog.txt",
+                "%PROGRAMDATA%\\USOPrivate\\UpdateStore\\store.db",
+                "%SYSTEMROOT%\\Panther\\*HumanReadable.xml"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows 설치 및 업데이트 과정에서 생성된 로그 파일과 설정 파일, 업데이트 관련 데이터를 저장하고 있음"
+            ]
+            
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%SYSTEMROOT%\\AppCompat\\Programs\\RecentFileCache.bcf"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "최근에 실행된 프로그램과 관련된 정보가 저장돼 있는 캐시 파일"
+            ]
+            
+        }
+    ]
+}

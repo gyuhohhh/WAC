@@ -1,0 +1,18 @@
+ {
+    "directories": [
+        {
+            "source_directory": [
+               "%SYSTEMROOT%\\System32\\WDI\\LogFiles\\StartupInfo\\*.xml"
+               
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 프로그램의 실행과 관련된 정보를 관리하는 구조체"
+            ]
+            
+        }
+    ]
+}

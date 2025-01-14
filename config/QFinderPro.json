@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\QNAP\\QfinderPro"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "QNAP의 네트워크 스토리지(NAS) 장치를 찾고 관리하기 위한 소프트웨어 도구"
+            ]
+        }
+    ]
+}

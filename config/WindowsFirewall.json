@@ -1,0 +1,17 @@
+ {
+    "directories": [
+        {
+            "source_directory": [
+               "%SYSTEMROOT%\\System32\\LogFiles\\Firewall\\pfirewall.*"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows Defender 방화벽의 활동과 관련된 로그와 방화벽 규칙, 상태가 저장돼 있는 파일"
+            ]
+            
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+ {
+    "directories": [
+        {
+            "source_directory": [
+               "%PROGRAMDATA%\\Microsoft\\Windows\\Power Efficiency Diagnostics"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 전력 효율성과 관련된 데이터를 저장하는 파일로서 사용 패턴을 추적할 수 있음"
+            ]
+            
+        }
+    ]
+}

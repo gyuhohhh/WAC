@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\logs",
+                "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\settings",
+                "%USERPROFILE%\\OneDrive*"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Microsoft의 클라우드 스토리지 서비스"
+            ]
+        }
+    ]
+}

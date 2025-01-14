@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Siemens\\Automation\\Portal*\\Settings"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Siemense에서 제공하는 통합 자동화 소프트웨어"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Packages\\Microsoft.Office.OneNote_*\\LocalState\\AppData\\Local\\OneNote"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Microsoft의 디지털 노트 작성 및 관리 어플리케이션"
+            ]
+        }
+    ]
+}

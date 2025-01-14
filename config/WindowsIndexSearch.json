@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+               "%PROGRAMDATA%\\Microsoft\\Search\\Data\\Applications\\Windows"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 Windows Search 서비스와 관련된 다양한 데이터와 캐시파일, 로그가 저장돼 있는 디렉터리"
+            ]
+            
+        }
+    ]
+}

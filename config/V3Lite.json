@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\Ahnlab\\Ais",
+                "%PROGRAMFILES%\\Ahnlab\\V3Lite40\\HtmlDoc",
+                "%PROGRAMFiles%\\Ahnlab\\V3Lite40\\Quarantine"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "AhnLab의 무료 안티바이러스 소프트웨어"
+            ]
+        }
+    ]
+}

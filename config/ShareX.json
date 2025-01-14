@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\Documents\\ShareX"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "무료 오픈 소스 화면 캡처 및 녹화 도구"
+            ]
+        }
+    ]
+}

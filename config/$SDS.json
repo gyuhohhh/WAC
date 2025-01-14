@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\$Secure\\$SDS"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "NTFS 파일시스템에서 사용되는 파일이나 디렉터리의 보안 설명자를 저장하며, 파일시스템의 보안 및 권한 관리에 관한 메타데이터 스트림"
+            ]
+            
+        }
+    ]
+}

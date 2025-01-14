@@ -1,0 +1,24 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\GPSoftware\\Directory Opus\\State Data\\MRU\\rename_folders.osd",
+                "%USERPROFILE%\\AppData\\Local\\GPSoftware\\Directory Opus\\State Data\\MRU\\rename_files.osd",
+                "%USERPROFILE%\\AppData\\Local\\GPSoftware\\Directory Opus\\State Data\\MRU\\find_contains.osd",
+                "%USERPROFILE%\\AppData\\Local\\GPSoftware\\Directory Opus\\State Data\\MRU\\find_name.osd",
+                "%USERPROFILE%\\AppData\\Local\\GPSoftware\\Directory Opus\\State Data\\MRU\\find_path.osd",
+                "%USERPROFILE%\\AppData\\Local\\GPSoftware\\Directory Opus\\State Data\\recent.osd",
+                "%USERPROFILE%\\AppData\\Local\\GPSoftware\\Directory Opus\\State Data\\backupconfig.osd",
+                "%USERPROFILE%\\AppData\\Local\\GPSoftware\\Directory Opus\\Thumbnail Cache",
+                "%USERPROFILE%\\AppData\\Roaming\\GPSoftware\\Directory Opus\\Logs"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "고급 파일 관리자 소프트웨어, 파일 탐색기의 대체 프로그램"
+            ]
+        }
+    ]
+}

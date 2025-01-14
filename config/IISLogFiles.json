@@ -1,0 +1,20 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\inetpub\\logs\\LogFiles\\W3SVC*\\*.log",
+                "C:\\inetpub\\logs\\LogFiles\\MSFTPSVC\\*.log",
+                "C:\\inetpub\\logs\\LogFiles\\FTPSVC\\*.log",
+                "C:\\inetpub\\logs\\LogFiles\\SMTPSVC\\*.log",
+                "C:\\inetpub\\logs\\LogFiles\\NNTPSVC\\*.log"
+            ],
+            "category" :[
+                "Logs"
+            ],
+            
+            "contents" : [
+                "Windows에서 작동하는 Microsoft의 웹 서버 소프트웨어의 로그 파일"
+            ]
+        }
+    ]
+}

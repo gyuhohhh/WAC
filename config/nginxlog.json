@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\nginx\\logs\\*.log"
+            ],
+            "category" :[
+                "Logs"
+            ],
+            
+            "contents" : [
+                "리버스 프록시, 로드 밸런서, HTTP 캐시 등을 지원하는 오픈 소스 고성능 웹 서버 소프트웨어"
+            ]
+        }
+    ]
+}

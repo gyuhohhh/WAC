@@ -1,0 +1,19 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%SYSTEMROOT%\\System32\\config\\systemprofile\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache",
+                "%USERPROFILE%\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache",
+                "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 제공하는 명령줄 유틸리티로, 인증서 및 인증서 저장소를 관리하는 데 사용됨"
+            ]
+            
+        }
+    ]
+}

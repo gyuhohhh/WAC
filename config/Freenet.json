@@ -1,0 +1,20 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Freenet\\node*",
+                "%USERPROFILE%\\AppData\\Local\\Freenet\\*completed.list.downloads",
+                "%USERPROFILE%\\AppData\\Local\\Freenet\\*completed.list.uploads",
+                "%USERPROFILE%\\AppData\\Local\\Freenet\\*.bak",
+                "%USERPROFILE%\\AppData\\Local\\Freenet\\downloads"
+            ],
+            "category" :[
+                "P2P"
+            ],
+            
+            "contents" : [
+                "P2P 네트워크에서 익명으로 정보를 공유하고 커뮤니케이션 할 수 있는 플랫폼"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Mattermost\\IndexedDB"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "오픈 소스 기반의 팀 협업 및 메시징 플랫폼"
+            ]
+        }
+    ]
+}

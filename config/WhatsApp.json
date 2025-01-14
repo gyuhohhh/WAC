@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\WhatsApp\\Cache",
+                "%USERPROFILE%\\AppData\\Raoming\\WhatsApp\\Local Storage\\leveldb"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "무료 메신저 어플리케이션"
+            ]
+        }
+    ]
+}

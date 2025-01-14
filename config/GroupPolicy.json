@@ -1,0 +1,19 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%SYSTEMROOT%\\System32\\grouppolicy\\*.ini",
+                "%SYSTEMROOT%\\System32\\grouppolicy\\*.pol",
+                "%SYSTEMROOT%\\System32\\grouppolicy\\*\\Scripts"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 그룹 정책을 관리하는 기능을 제공하는 도구"
+            ]
+            
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\XYplorer\\XYplorer.ini",
+                "%USERPROFILE%\\AppData\\Roaming\\XYplorer\\Panes\\*\\pane.ini",
+                "%USERPROFILE%\\AppData\\Roaming\\XYplorer\\AutoBackup",
+                "%USERPROFILE%\\AppData\\Roaming\\XYplorer\\*.dat"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Windows에서 사용되는 강력하고 기능이 풍부한 파일 탐색기"
+            ]
+        }
+    ]
+}

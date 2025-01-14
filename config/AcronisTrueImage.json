@@ -1,0 +1,19 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\Acronis\\TrueImageHome\\Logs\\ti_demon",
+                "%PROGRAMDATA%\\Acronis\\TrueImageHome\\Database\\archives.db*",
+                "%PROGRAMDATA%\\Acronis\\TrueImageHome\\Scripts"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "시스템 이미지, 파일 및 폴더, 디스크 등의 강력한 백업 소프트웨어"
+            ]
+            
+        }
+    ]
+}

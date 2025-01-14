@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles",
+                "%USERPROFILE%\\AppData\\Local\\Mozilla\\Firefox\\Profiles"
+            ],
+            "category" :[
+                "Browser"
+            ],
+            
+            "contents" : [
+                "Mozilla Foundation의 오픈 소스 웹 브라우저"
+            ]
+        }
+    ]
+}

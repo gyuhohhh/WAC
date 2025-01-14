@@ -1,0 +1,17 @@
+ {
+    "directories": [
+        {
+            "source_directory": [
+               "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\Explorer\\thumbcache_*.db"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 파일 및 폴더의 썸네일 이미지를 저장하는 캐시 파일"
+            ]
+            
+        }
+    ]
+}

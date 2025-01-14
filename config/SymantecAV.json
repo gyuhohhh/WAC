@@ -1,0 +1,21 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\Symantec\\Symantec Endpoint Protection\\*\\Data\\Logs",
+                "%USERPROFILE%\\AppData\\Local\\Symantec\\Symantec Endpoint Protection\\Logs",
+                "%SYSTEMROOT%\\System32\\winevt\\logs\\Symantec Endpoint Protection Client.evtx",
+                "%PROGRAMDATA%\\Symantec\\Symantec Endpoint Protection\\*\\Data\\Quarantine",
+                "%PROGRAMDATA%\\Symantec\\Symantec Endpoint Protection\\*\\Data\\CmnClnt\\ccSubSDK",
+                "%PROGRAMDATA%\\Symantec\\Symantec Endpoint Protection\\*\\Data\\registrationInfo.xml"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "Symantec의 현재는 Norton AntiVirus로 알려진 안티바이러스 소프트웨어"
+            ]
+        }
+    ]
+}

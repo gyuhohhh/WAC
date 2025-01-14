@@ -1,0 +1,21 @@
+ {
+    "directories": [
+        {
+            "source_directory": [
+               "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\Notifications\\wpndatabase.db",
+               "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\Notifications\\appdb.dat"
+          
+               
+              
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows의 알림 시스템과 관련된 데이터가 저장돼 있음"
+            ]
+            
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Everything\\Everything.db",
+                "%USERPROFILE%\\AppData\\Roaming\\Everything\\Run History.csv",
+                "%USERPROFILE%\\AppData\\Roaming\\Everything\\Search History.csv",
+                "%USERPROFILE%\\AppData\\Roaming\\Everything\\Everything.ini"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Windows에서 사용 가능한 빠른 파일 검색 도구"
+            ]
+        }
+    ]
+}

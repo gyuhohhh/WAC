@@ -1,0 +1,23 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Packages\\KaliLinux.54290C8133FEE_*\\LocalState\\rootfs\\etc",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\KaliLinux.54290C8133FEE_*\\LocalState\\rootfs\\.bash_history",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\KaliLinux.54290C8133FEE_*\\LocalState\\rootfs\\.bashrc",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\KaliLinux.54290C8133FEE_*\\LocalState\\rootfs\\.profile",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\KaliLinux.54290C8133FEE_*\\LocalState\\rootfs\\root",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\KaliLinux.54290C8133FEE_*\\LocalState\\rootfs\\var\\spool\\cron\\crontabs",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\KaliLinux.54290C8133FEE_*\\LocalState\\rootfs\\var\\log\\apt"
+            ],
+            "category" :[
+                "WSL"
+            ],
+            
+            "contents" : [
+                "WSL(Windows Subsystem Linux)의 Kali Linux 서비스",
+                "이 Kali Linux는 WSLv1 을 사용하고 있습니다"
+            ]
+        }
+    ]
+}

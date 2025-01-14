@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Free Download Manager\\*.sqlite",
+                "%USERPROFILE%\\AppData\\Local\\Free Download Manager\\backup"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "다양한 프로토콜을 지원하는 다운로드 관리 소프트웨어"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\7-zip\\7z.ini",
+                "C:\\Program Files*\\7-zip\\7z.ini"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                ".7z로 압축하는 파일 압축 오픈 소스 소프트웨어"
+            ]
+            
+        }
+    ]
+}

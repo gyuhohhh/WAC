@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\Documents\\Outlook Files",
+                "%USERPROFILE%\\AppData\\Local\\Microsoft\\Outlook",
+                "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windwos\\INetCache\\Content.Outlook"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Microsoft Outlook에서 이메일 데이터를 저장하는 두 파일 형식(OST, PST)을 서로 변환해 주는 소프트웨어"
+            ]
+        }
+    ]
+}

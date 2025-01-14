@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\$LogFile"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "NTFS 파일시스템에서 사용하는 시스템의 파일 시스템 메타데이터 변경 사항을 기록하는 로그 파일"
+            ]
+            
+        }
+    ]
+}

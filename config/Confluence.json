@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\Atlassian\\Application Data\\Confluence\\logs\\*.log",
+                "%PROGRAMFILES%\\Atlassian\\Confluence\\logs\\*.log"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Atlassian의 협업 소프트웨어"
+            ]
+            
+        }
+    ]
+}

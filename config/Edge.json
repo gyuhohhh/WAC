@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default"
+            ],
+            "category" :[
+                "Browser"
+            ],
+            
+            "contents" : [
+                "Microsoft의 Edge 브라우저"
+            ]
+        }
+    ]
+}

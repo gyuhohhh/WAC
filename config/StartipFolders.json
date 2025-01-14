@@ -1,0 +1,19 @@
+ {
+    "directories": [
+        {
+            "source_directory": [
+               "%PROGRAMDATA%\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp",
+               "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup"
+               
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 사용자 계정이 로그인할 때 자동으로 실행되는 프로그램의 바로 가기와 관련된 폴더"
+            ]
+            
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Spotify",
+                "%USERPROFILE%\\AppData\\Local\\Spotify"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "음악 스트리밍 플랫폼"
+            ]
+        }
+    ]
+}

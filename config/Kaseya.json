@@ -1,0 +1,21 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Kaseya\\Log\\KaseyaLiveConnect",
+                "%PROGRAMDATA%\\Kaseya\\Log\\Endpoint",
+                "C:\\Program Files*\\Kaseya\\*\\agentmon.log*",
+                "%USERPROFILE%\\AppData\\Local\\Temp\\KASetup.log",
+                "%SYSTEMROOT%\\Temp\\KASetup.log",
+                "%PROGRAMDATA%\\Kaseya\\Log\\KaseyaEdgeServices"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Kaseya의 IT 관리 및 자동화 솔루션을 제공하는 소프트웨어"
+            ]
+        }
+    ]
+}

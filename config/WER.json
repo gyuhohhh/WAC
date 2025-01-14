@@ -1,0 +1,19 @@
+ {
+    "directories": [
+        {
+            "source_directory": [
+               "%PROGRAMDATA%\\Microsoft\\Windows\\WER",
+               "%USERPROFILE%\\AppData\\Local\\CrashDumps\\*.dmp",
+               "%SYSTEMROOT%\\*.dmp"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 오류와 충돌을 기록한 로그 파일"
+            ]
+            
+        }
+    ]
+}

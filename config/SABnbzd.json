@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\sabnzbd\\logs\\sabnzbd.log",
+                "%USERPROFILE%\\AppData\\Local\\sabnzbd\\admin\\history1.db"
+            ],
+            "category" :[
+                "P2P"
+            ],
+            
+            "contents" : [
+                "Usenet 뉴스 그룹 클라이언트"
+            ]
+        }
+    ]
+}

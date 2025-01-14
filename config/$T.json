@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\$Extend\\$RmMetadata\\$TxfLog\\$Tops\\$T"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "NTFS 파일 시스템의 Transactional Log 파일을 나타내는 데이터 스트림"
+            ]
+            
+        }
+    ]
+}

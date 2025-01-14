@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\Midnight Commander"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "유닉스 및 리눅스에서 주로 사용되는 오픈 소스 파일 관리자"
+            ]
+        }
+    ]
+}

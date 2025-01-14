@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\LINE\\Bin"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Naver의 LINE에서 개발한 무료 메신저 어플리케이션"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Romaing\\Microsoft\\Windows\\PowerShell\\PSReadLine\\ConsoleHost_history.txt",
+                "%SYSTEMROOT%\\System32\\winevt\\logs\\Windows PowerShell.evtx",
+                "%SYSTEMROOT%\\System32\\winevt\\logs\\Microsoft-Windows-PowerShell%4Operational.evtx"
+            ],
+            "category" :[
+                "Logs"
+            ],
+            
+            "contents" : [
+                "Windows의 Powershell 세션에서 실행된 명령어와 그 출력을 기록하는 로그 파일"
+            ]
+        }
+    ]
+}

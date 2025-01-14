@@ -1,0 +1,22 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\AnyDesk\\*.trace",
+                "%USERPROFILE%\\AppData\\Roaming\\AnyDesk\\*.conf",
+                "%PROGRAMDATA%\\AnyDesk\\*.trace",
+                "%PROGRAMDATA%\\AnyDesk\\*.conf",
+                "%PROGRAMDATA%\\AnyDesk\\connection_trace.txt",
+                "%USERPROFILE%\\Videos\\AnyDesk\\*.anydesk",
+                "%SYSTEMROOT%\\SysWOW64\\config\\systemprofile\\AppData\\Roaming\\AnyDesk"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "원격 데스크탑 소프트웨어"
+            ]
+        }
+    ]
+}

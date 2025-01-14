@@ -1,0 +1,19 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "*\\*.vbox",
+                "*\\*.vbox-prev",
+                "*\\Logs",
+                "*\\*.sav"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "오픈 소스 가상화 소프트웨어"
+            ]
+        }
+    ]
+}

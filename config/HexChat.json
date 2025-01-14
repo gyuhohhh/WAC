@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\HexChat\\logs"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "IRC 클라이언트로, 사용자가 IRC 네트워크에 연결하여 실시간 채팅을 할 수 있도록 돕는 오픈 소스 프로그램"
+            ]
+        }
+    ]
+}

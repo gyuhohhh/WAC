@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\ManageEngine\\DesktopCentral_Server\\logs\\"
+            ],
+            "category" :[
+                "Logs"
+            ],
+            
+            "contents" : [
+                "IT 관리 및 모니터링 솔루션을 제공하는 소프트웨어 플랫폼"
+            ]
+        }
+    ]
+}

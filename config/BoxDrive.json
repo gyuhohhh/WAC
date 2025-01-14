@@ -1,0 +1,20 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Box\\Box",
+                "%USERPROFILE%\\AppData\\Local\\Box Sync",
+                "%USERPROFILE%\\Box",
+                "%USERPROFILE%\\Box Sync"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Box라는 클라우드 기반 파일 저장 애플리케이션의 실시간 동기화 및 접근을 위한 소프트웨어"
+            ]
+            
+        }
+    ]
+}

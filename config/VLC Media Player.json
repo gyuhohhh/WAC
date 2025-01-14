@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\vlc",
+                "%USERPROFILE%\\Videos\\vlc-*.avi"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "오픈 소스 멀티미디어 플레이어"
+            ]
+        }
+    ]
+}

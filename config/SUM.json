@@ -1,0 +1,19 @@
+ {
+    "directories": [
+        {
+            "source_directory": [
+               "%SYSTEMROOT%\\System32\\LogFiles\\SUM\\*.mdb",
+               "%SYSTEMROOT%\\Logs\\WindowsUpdate"
+               
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows의 리소스 사용과 관련된 데이터를 기록하고 모니터링하는 도구"
+            ]
+            
+        }
+    ]
+}

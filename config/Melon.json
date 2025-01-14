@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Kakao\\Melon",
+                "%USERPROFILE%\\AppData\\Local\\MelonPlayer"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "음악 스트리밍 서비스를 제공하는 음원 플랫폼"
+            ]
+        }
+    ]
+}

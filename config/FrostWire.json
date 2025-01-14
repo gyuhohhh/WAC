@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\Documents\\FrostWire\\Torrent Data",
+                "%USERPROFILE%\\.frostwire5\\frostwire.props",
+                "%USERPROFILE%\\.frostwire5\\itunes.props"
+            ],
+            "category" :[
+                "P2P"
+            ],
+            
+            "contents" : [
+                "P2P 파일 공유 기능을 제공하는 BitTorrent 클라이언트 및 미디어 플레이어"
+            ]
+        }
+    ]
+}

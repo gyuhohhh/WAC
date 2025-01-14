@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Shareaza"
+            ],
+            "category" :[
+                "P2P"
+            ],
+            
+            "contents" : [
+                "파일 공유 및 전송을 위한 소프트웨어"
+            ]
+        }
+    ]
+}

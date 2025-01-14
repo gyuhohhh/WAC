@@ -1,0 +1,17 @@
+ {
+    "directories": [
+        {
+            "source_directory": [
+               "%USERPROFILE%\\AppData\\Local\\Packages\\Microsoft.ScreenSketch_*\\TempState\\*.png"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows 10 및 Windows 11에서 제공하는 스크린 캡처 및 주석 도구"
+            ]
+            
+        }
+    ]
+}

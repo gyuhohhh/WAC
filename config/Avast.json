@@ -1,0 +1,20 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\Avast Software\\Avast\\log",
+                "%USERPROFILE%\\Avast Software\\Avast\\Log",
+                "%PROGRAMDATA%\\Avast Software\\Avast\\Chest",
+                "%PROGRAMDATA%\\Avast Software\\Persistent Data\\Avast\\Logs",
+                "%PROGRAMDATA%\\Avast Software\\Icarus\\Logs"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "Avast의 안티바이러스 및 보안 소프트웨어"
+            ]
+        }
+    ]
+}

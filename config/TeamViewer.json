@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\Program Files*\\TeamViewer\\connections*.txt",
+                "C:\\Program Files*\\TeamViewer\\TeamViewer*_Logfile*",
+                "%USERPROFILE%\\AppData\\Roaming\\TeamViewer"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "원격 데스크탑 소프트웨어"
+            ]
+        }
+    ]
+}

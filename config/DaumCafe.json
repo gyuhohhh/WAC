@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Daum\\Daum Cafe"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Kakao의 Daum서비스 중 하나인 Daum Cafe의 어플리케이션"
+            ]
+            
+        }
+    ]
+}

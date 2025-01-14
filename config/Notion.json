@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Notion",
+                "%USERPROFILE%\\AppData\\Local\\Notion"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "올인원 생산성 및 노트 작성 도구"
+            ]
+        }
+    ]
+}

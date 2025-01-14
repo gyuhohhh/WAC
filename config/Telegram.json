@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Telegram Desktop",
+                "%USERPROFILE%\\Downloads\\Telegram Desktop"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "클라우드 기반의 메신저 앱"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\HeidiSQL"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "MySQL, MariaDB, MSSQL 등과 같은 관계형 데이터베이스를 관리하기 위한 무료 오픈 소스 도구"
+            ]
+        }
+    ]
+}

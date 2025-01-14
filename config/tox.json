@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Tox",
+                "%USERPROFILE%\\AppData\\Local\\Tox"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "안전하고 비공식적인 커뮤니케이션을 지원하는 오픈 소스 메시징 및 비디오 통화 어플리케이션"
+            ]
+        }
+    ]
+}

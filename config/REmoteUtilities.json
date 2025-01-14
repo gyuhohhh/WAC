@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\Program Files*\\Remote Utilities - Host\\Logs\\rut_log_*.html",
+                "%PROGRAMDATA%\\Remote Utilities\\install.log"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Windows를 기반으로 하는 원격 데스크탑 소프트웨어"
+            ]
+        }
+    ]
+}

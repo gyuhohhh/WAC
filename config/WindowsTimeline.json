@@ -1,0 +1,17 @@
+ {
+    "directories": [
+        {
+            "source_directory": [
+               "%USERPROFILE%\\AppData\\Local\\ConnectedDevicesPlatform\\*\\ActivitiesCache.db*"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "사용자의 활동 및 장치 간 상호작용과 관련된 정보가 저장돼 있는 DB 파일"
+            ]
+            
+        }
+    ]
+}

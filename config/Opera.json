@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Opera Software\\Opera Stable",
+                "%USERPROFILE%\\AppData\\Local\\Opera Software\\Opera Stable\\Default"
+            ],
+            "category" :[
+                "Browser"
+            ],
+            
+            "contents" : [
+                "다양한 운영체제에서 사용 가능한 웹 브라우저"
+            ]
+        }
+    ]
+}

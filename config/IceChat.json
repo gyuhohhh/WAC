@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\IceChat Networks\\IceChat\\Logs"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Windows용 무료 IRC 클라이언트로, 사용자가 실시간으로 채팅할 수 있게 도와주는 프로그램"
+            ]
+        }
+    ]
+}

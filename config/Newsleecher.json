@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\NewsLeecher\\downloaded.dat"
+            ],
+            "category" :[
+                "P2P"
+            ],
+            
+            "contents" : [
+                "Usenet 뉴스 그룹에서 파일을 검색하고 다운로드 하는 데 사용되는 고급 Usenet 클라이언트"
+            ]
+        }
+    ]
+}

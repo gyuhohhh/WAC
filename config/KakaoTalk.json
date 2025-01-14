@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Kakao\\KakaoTalk",
+                "%USERPROFILE%\\AppData\\Roaming\\Kakao\\KakaoTalk"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Kakao의 무료 메신저 어플리케이션"
+            ]
+        }
+    ]
+}

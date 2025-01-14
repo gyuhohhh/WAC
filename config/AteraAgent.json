@@ -1,0 +1,20 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMFILES%\\ATERA Networks\\AteraAgent\\*.ini",
+                "%PROGRAMFILES%\\ATERA Networks\\AteraAgent\\*.txt",
+                "%PROGRAMFILES%\\ATERA Networks\\AteraAgent\\*.db",
+                "%PROGRAMFILES%\\ATERA Networks\\AteraAgent\\*.config",
+                "%PROGRAMFILES%\\ATERA Networks\\AteraAgent\\*.cfg"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "IT 관리와 원격 모니터링 서비스를 제공하는 클라우트 기반 플랫폼"
+            ]
+        }
+    ]
+}

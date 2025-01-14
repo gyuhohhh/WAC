@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Aspera\\Aspera Connect\\var\\log\\*.log",
+                "%USERPROFILE%\\.aspera\\connect\\var\\log\\*.log"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "IBM에서 제공하는 고속 파일 전송 소프트웨어"
+            ]
+        }
+    ]
+}

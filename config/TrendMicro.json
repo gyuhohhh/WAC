@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\Trend Micro",
+                "%PROGRAMFILES%\\Trend Micro\\Security Agent\\Report\\*.log",
+                "%PROGRAMFILES%\\Trend Micro\\Security Agent\\ConnLog\\*.log"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "Trend Micro의 악성코드, 바이러스 등을 탐지하고 방어하는 보안 솔루션"
+            ]
+        }
+    ]
+}

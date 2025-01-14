@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Thunderbird"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Mozilla에서 개발한 무료 오픈 소스 이메일 클라이언트"
+            ]
+        }
+    ]
+}

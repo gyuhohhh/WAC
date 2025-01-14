@@ -1,0 +1,25 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "*\\*.vmem*",
+                "*\\mksSandbox*.log",
+                "*\\vmware*.log",
+                "*\\*.nvram",
+                "*\\*.scoreboard",
+                "*\\*.vmsd",
+                "*\\*.vmx",
+                "*\\*.vmss",
+                "*\\*.vmsn"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "VMware의 가상화 소프트웨어 및 클라우드 컴퓨팅 솔루션",
+                "이 아티팩트는 VMware의 가상머신 디렉터리 폴더의 아티팩트입니다"
+            ]
+        }
+    ]
+}

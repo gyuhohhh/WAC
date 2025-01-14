@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMFILES%\\Microsoft\\Exchange\\Server\\*\\TransportRoles\\Logs\\*.log"
+            ],
+            "category" :[
+                "Logs"
+            ],
+            
+            "contents" : [
+                "Microsoft Exchange Server에서 이메일이 주고받는 과정을 처리하는 역할을 담당하는 구성 요소로, 이에 관한 로그 파일"
+            ]
+        }
+    ]
+}

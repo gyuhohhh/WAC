@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\RogueKiller\\logs\\AdliceReport_*.json"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "시스템에서 다양한 유형의 악성 코드를 탐지하고 제거하는 안티멀웨어 도구"
+            ]
+        }
+    ]
+}

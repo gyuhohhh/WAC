@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\ProtonVPN\\Logs"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "프라이버시와 보안을 중점으로 하는 VPN 서비스"
+            ]
+        }
+    ]
+}

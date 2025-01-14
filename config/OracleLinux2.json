@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Packages\\3810OracleAmericaInc.OracleLinux7.9_*\\LocalState"
+            ],
+            "category" :[
+                "WSL"
+            ],
+            
+            "contents" : [
+                "WSL(Windows Subsystem Linux)의 Oracle Linux 서비스",
+                "이 Oracle Linux WSLv2 를 사용하고 있습니다"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\HitmanPro\\Logs",
+                "%PROGRAMDATA%\\HitmanPro.Alert\\Logs",
+                "%PROGRAMDATA%\\HitmanPro.Alert\\excalibur.db"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "멀웨어, 바이러스, 루트킷, 스파이웨어 등을 탐지하고 제거하는 데 중점을 둔 안티바이러스 프로그램"
+            ]
+        }
+    ]
+}

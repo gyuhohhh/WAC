@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Packages\\KaliLinux.54290C8133FEE_*\\LocalState"
+            ],
+            "category" :[
+                "WSL"
+            ],
+            
+            "contents" : [
+                "WSL(Windows Subsystem Linux)의 Kali Linux 서비스",
+                "이 Kali Linux는 WSLv2 를 사용하고 있습니다"
+            ]
+        }
+    ]
+}

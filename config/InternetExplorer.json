@@ -1,0 +1,23 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Office\\Recent",
+                "%USERPROFILE%\\AppData\\Local\\Microsoft\\Internet Explorer",
+                "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Internet Explorer",
+                "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\History",
+                "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\Cookies",
+                "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\IEDownloadHistory",
+                "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\WebCache",
+                "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCookies"
+            ],
+            "category" :[
+                "Browser"
+            ],
+            
+            "contents" : [
+                "Microsoft의 Windows에서 사용하는 웹브라우저"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+               "%SYSTEMROOT%\\Tasks\\*.job",
+               "%SYSTEMROOT%\\SchedLgU.txt",
+               "%SYSTEMROOT%\\System32\\Tasks"
+               
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows의 작업 스케줄러에 관한 정보"
+            ]
+            
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\FileZilla Server",
+                "C:\\Program Files (x86)\\FileZilla Server\\Logs"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "오픈 소스 FTP 서버 소프트웨어"
+            ]
+        }
+    ]
+}

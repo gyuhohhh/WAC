@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Naver\\Naver Whale\\User Data\\Default"
+            ],
+            "category" :[
+                "Browser"
+            ],
+            
+            "contents" : [
+                "Naver의 웹 브라우저"
+            ]
+        }
+    ]
+}

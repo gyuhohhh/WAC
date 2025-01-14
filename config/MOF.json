@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+               "%SYSTEMROOT%\\System32\\wbem"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows 관리 규칙(WMI)에서 사용하는 텍스트 기반의 데이터 포맷"
+            ]
+            
+        }
+    ]
+}

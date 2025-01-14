@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMFILES%\\Microsoft\\Exchange Server\\*\\Loging\\*.log"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Microsoft Exchange Server에서 클라이언트 요청을 처리하고 사용자에게 메일 등의 서비스에 접근할 수 있도록 하는 소프트웨어"
+            ]
+        }
+    ]
+}

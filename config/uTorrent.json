@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\uTorrent"
+            ],
+            
+            "category" :[
+                "P2P"
+            ],
+            
+            "contents" : [
+                "파일 공유 및 다운로드를 위한 경량의 토렌트 클라이언트"
+            ]
+        }
+    ]
+}

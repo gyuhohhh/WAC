@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%SYSTEMROOT%\\System32\\winevt\\logs\\*.evtx"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 운영 체제와 어플리케이션에서 발생하는 이벤트를 기록하는 로그 파일"
+            ]
+            
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+               "%SYSTEMROOT%\\System32\\config\\SYSTEM",
+               "%SYSTEMROOT%\\System32\\config\\SAM",
+               "%SYSTEMROOT%\\System32\\config\\SECURITY",
+               "%SYSTEMROOT%\\System32\\config\\SOFTWARE",
+               "%USERPROFILE%\\NTUSER.DAT",
+               "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\UsrClass.dat",
+               "%SYSTEMROOT%\\System32\\config\\DEFAULT",
+               "%SYSTEMROOT%\\System32\\config\\BBI*",
+               "%SYSTEMROOT%\\System32\\config\\BCD-Template*",
+               "%SYSTEMROOT%\\System32\\config\\COMPONENTS*",
+               "%SYSTEMROOT%\\System32\\config\\DRIVERS*",
+               "%SYSTEMROOT%\\System32\\config\\ELAM*",
+               "%SYSTEMROOT%\\System32\\config\\userdiff*",
+               "%SYSTEMROOT%\\System32\\config\\VSMIDK*"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows의 레지스트리 하이브 파일"
+            ]
+            
+        }
+    ]
+}

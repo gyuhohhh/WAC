@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\RemoteView",
+                "%USERPROFILE%\\AppData\\Roaming\\RemoteView"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "RSUPPORT에서 개발한 원격 제어 및 원격 지원 솔루션"
+            ]
+        }
+    ]
+}

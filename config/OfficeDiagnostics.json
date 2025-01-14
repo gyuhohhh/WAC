@@ -1,0 +1,20 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+               "%USERPROFILE%\\AppData\\Local\\Diagnostics\\PCW.debugreport.xml",
+               "%USERPROFILE%\\AppData\\Local\\ElevatedDiagnostics\\PCW.debugreport.xml"
+
+
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Microsoft Office의 진단 및 문제 해결 정보가 저장된 파일"
+            ]
+            
+        }
+    ]
+}

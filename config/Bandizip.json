@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Bandizip"
+            ],
+            
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "다양한 포맷의 압축 파일을 생성하고 관리할 수 있는 파일 압축 소프트웨어"
+            ]
+        }
+    ]
+}

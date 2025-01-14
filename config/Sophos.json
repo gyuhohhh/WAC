@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\Sophos\\Sophos*\\Logs"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "Pophos의 사이버 보안 솔루션"
+            ]
+        }
+    ]
+}

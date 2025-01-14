@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Apple*\\Mobilesync\\Backup"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Apple 기기 사용자가 기기 데이터를 백업하는 데 사용하는 소프트웨어"
+            ]
+        }
+    ]
+}

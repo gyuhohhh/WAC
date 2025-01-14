@@ -1,0 +1,19 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\crs1\\Logs",
+                "%PROGRAMDATA%\\apv2\\Logs",
+                "%PROGRAMDATA%\\crb1\\Logs"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "Cybereason의 고급 보안 솔루션"
+            ]
+            
+        }
+    ]
+}

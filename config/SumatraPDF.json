@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\SumatraPDF\\SumatraPDF-settings.txt",
+                "%USERPROFILE%\\AppData\\Local\\SumatraPDF"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "가볍고 빠른 PDF Reader 소프트웨어"
+            ]
+        }
+    ]
+}

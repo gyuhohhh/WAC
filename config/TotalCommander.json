@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\GHISLER",
+                "%USERPROFILE%\\AppData\\Local\\Temp\\FTP*.tmp",
+                "%USERPROFILE%\\AppData\\Local\\Temp\\treeinfo*.wc"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "강력한 파일 관리자 프로그램"
+            ]
+        }
+    ]
+}

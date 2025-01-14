@@ -1,0 +1,20 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\AVG\\Antivirus\\log",
+                "%PROGRAMDATA%\\AVG\\Antivirus\\report",
+                "%PROGRAMDATA%\\AVG\\Persistent Data\\Antivirus\\Logs",
+                "%PROGRAMDATA%\\AVG\\Antivirus\\FileInfo2.db",
+                "%PROGRAMDATA%\\AVG\\Antivirus\\lsdb2.json"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "안티바이러스 및 보안 소프트웨어"
+            ]
+        }
+    ]
+}

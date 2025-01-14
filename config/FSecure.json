@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\F-Secure\\Log",
+                "%PROGRAMDATA%\\F-Secure\\Antivirus\\ScheduledScanReports",
+                "%USERPROFILE%\\AppData\\Local\\F-Secure\\Log"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "F-Secure의 안티바이러스 소프트웨어"
+            ]
+        }
+    ]
+}

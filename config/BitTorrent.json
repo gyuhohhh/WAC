@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\BitTorrent\\*.dat"
+            ],
+            "category" :[
+                "P2P"
+            ],
+            
+            "contents" : [
+                "P2P 파일 공유 프로토콜을 통해 파일을 업로드/다운로드하는 데 사용되는 클라이언트 소프트웨어"
+            ]
+        }
+    ]
+    
+}

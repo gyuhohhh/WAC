@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Packages\\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe\\LocalState",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe\\LocalCache"
+            ],
+            "category" :[
+                "WSA"
+            ],
+            
+            "contents" : [
+                "Windows Subsystem for Android",
+                "Windows 11에서 Android 앱을 실행시킬 수 있도록 지원하는 기능"
+            ]
+        }
+    ]
+}

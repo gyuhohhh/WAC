@@ -1,0 +1,22 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\doublecmd\\history.xml",
+                "%USERPROFILE%\\AppData\\Roaming\\doublecmd\\doublecmd.xml",
+                "%USERPROFILE%\\AppData\\Roaming\\doublecmd\\doublecmd*.log",
+                "%USERPROFILE%\\AppData\\Roaming\\doublecmd\\multiarc.ini",
+                "%USERPROFILE%\\AppData\\Roaming\\doublecmd\\session.ini",
+                "%USERPROFILE%\\AppData\\Roaming\\doublecmd\\pixmaps.txt",
+                "%USERPROFILE%\\AppData\\Roaming\\doublecmd\\shortcuts.scf"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "오픈 소스 파일 관리자, 여러 운영체제에서 사용할 수 있는 크로스 플랫폼 파일 탐색기"
+            ]
+        }
+    ]
+}

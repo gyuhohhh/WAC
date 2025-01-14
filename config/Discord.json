@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\discord\\Cache",
+                "%USERPROFILE%\\AppData\\Roaming\\discord\\Local Storage\\leveldb"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "실시간으로 소통할 수 있는 무료 커뮤니케이션 플랫폼"
+            ]
+        }
+    ]
+}

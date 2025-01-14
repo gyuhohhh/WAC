@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\WRData\\WRLog.log"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "클라우드 기반의 사이버 보안 소프트웨어"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default"
+            ],
+            "category" :[
+                "Browser"
+            ],
+            
+            "contents" : [
+                "Brave 브라우저"
+            ]
+            
+        }
+    ]
+}

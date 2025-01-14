@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Packages\\46932SUSE.openSUSELeap*\\LocalState"
+            ],
+            "category" :[
+                "WSL"
+            ],
+            
+            "contents" : [
+                "WSL(Windows Subsystem Linux)의 openSUSE 서비스",
+                "이 openSUSE는 WSLv2 를 사용하고 있습니다"
+            ]
+        }
+    ]
+}

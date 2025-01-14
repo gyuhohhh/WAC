@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Shalsoft"
+            ],
+            "category" :[
+                "P2P"
+            ],
+            
+            "contents" : [
+                "P2P 기반으로 작동하는 개인 파일 공유를 위한 소프트웨어"
+            ]
+        }
+    ]
+}

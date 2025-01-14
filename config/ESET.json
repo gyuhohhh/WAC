@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\ESET NOD32 Antivirus\\Logs",
+                "%PROGRAMDATA%\\ESET\\RemoteAdministrator\\Agent\\EraAgentApplication\\Logs"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "사이버 보안 및 안티바이러스 소프트웨어"
+            ]
+        }
+    ]
+}

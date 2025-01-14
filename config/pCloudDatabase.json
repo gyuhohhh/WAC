@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\pCloud"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "클라우드 스토리지 서비스를 제공하는 플랫폼"
+            ]
+        }
+    ]
+}

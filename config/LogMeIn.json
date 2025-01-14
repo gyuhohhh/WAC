@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\LogMeIn\\Logs",
+                "%USERPROFILE%\\AppData\\Local\\temp\\LogMeInLogs"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "원격 접속 및 IT 관리 솔루션을 제공하는 소프트웨어"
+            ]
+        }
+    ]
+}

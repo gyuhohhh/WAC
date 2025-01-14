@@ -1,0 +1,19 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\DC++\\Logs\\dcplus.log",
+                "%USERPROFILE%\\AppData\\Local\\DC++\\Logs\\dcplusplus.log",
+                "%USERPROFILE%\\AppData\\Local\\DC++\\Logs\\chat.log"
+            ],
+            "category" :[
+                "P2P"
+            ],
+            
+            "contents" : [
+                "P2P 파일 공유 클라이언트"
+            ]
+            
+        }
+    ]
+}

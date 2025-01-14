@@ -1,0 +1,21 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Packages\\Microsoft.SkypeApp_*\\LocalState\\*\\main.db",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\Microsoft.SkypeApp_*\\LocalState\\*\\skype.db",
+                "%USERPROFILE%\\AppData\\Roaming\\Skype\\*\\main.db",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\Microsoft.SkypeApp_*\\Localstate\\s4l-*.db",
+                "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Skype for Desktop\\IndexedDB\\*.leveldb",
+                "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Skype for Desktop\\Cache"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Microsoft의 커뮤니케이션 플랫폼"
+            ]
+        }
+    ]
+}

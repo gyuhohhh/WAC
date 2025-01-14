@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\$MFTMirr"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "복구 목적으로 존재하는 $MFT의 복사본"
+            ]
+            
+        }
+    ]
+}

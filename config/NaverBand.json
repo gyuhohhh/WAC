@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\BAND\\Bin"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Naver의 소셜 네트워킹 서비스(SNS) 플랫폼"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Packages\\46932SUSE.SUSELinuxEnterpriseServer*\\LocalState\\rootfs\\etc",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\46932SUSE.SUSELinuxEnterpriseServer*\\LocalState\\rootfs\\.bash_history",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\46932SUSE.SUSELinuxEnterpriseServer*\\LocalState\\rootfs\\.bashrc",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\46932SUSE.SUSELinuxEnterpriseServer*\\LocalState\\rootfs\\.profile",
+                "%USERPROFILE%\\AppData\\Local\\Packages\\46932SUSE.SUSELinuxEnterpriseServer*\\LocalState\\rootfs\\root"
+            ],
+            "category" :[
+                "WSL"
+            ],
+            
+            "contents" : [
+                "WSL(Windows Subsystem Linux)의 SUSELinuxEnterpriseServer 서비스",
+                "이 SUSELinuxEnterpriseServer는 WSLv1 을 사용하고 있습니다"
+            ]
+        }
+    ]
+}

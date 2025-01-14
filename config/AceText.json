@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\Documents\\*.atc"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "텍스트 스니펫과 클립보드 내용을 관리하고 재사용하기 위한 소프트웨어"
+            ]
+            
+        }
+    ]
+}

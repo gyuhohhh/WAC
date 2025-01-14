@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+               "%SYSTEMROOT%\\System32\\CatRoot"
+               
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "파일 무결성 및 신뢰성을 관리하는 데 사용되는 메타 데이터 파일"
+            ]
+            
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\TeraCopy"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "파일 복사 프로그램"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%SYSTEMROOT%\\CCM\\Logs\\AssetAdvisor.log",
+                "%SYSTEMROOT%\\ProgramData\\Microsoft\\Windows\\Asset Advisor\\Logs\\AssetAdvisorLog.etl"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 Asset Advisor 기능과 관련된 로그 파일로, 주로 하드웨어와 소프트웨어 자산을 분석하고 관리하는데 도음을 줌"
+            ]
+            
+        }
+    ]
+}

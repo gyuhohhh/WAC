@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\TotalAV\\logs",
+                "%PROGRAMFILES%\\TotalAV\\logs"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "종합적인 사이버 보안 소프트웨어"
+            ]
+        }
+    ]
+}

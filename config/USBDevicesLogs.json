@@ -1,0 +1,17 @@
+ {
+    "directories": [
+        {
+            "source_directory": [
+               "%SYSTEMROOT%\\INF\\setupapi.dev.*"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 장치 드라이버 및 설치 프로세스와 관련된 로그를 기록하는 파일"
+            ]
+            
+        }
+    ]
+}

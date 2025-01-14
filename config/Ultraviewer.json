@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\UltraViewer",
+                "C:\\Program Files*\\UltraViewer\\UltraViewerService_log.txt",
+                "C:\\Program Files*\\UltraViewer\\ConnectionLog.Log"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "원격 제어 및 지원을 위한 소프트웨어"
+            ]
+        }
+    ]
+}

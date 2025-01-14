@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\Microsoft\\Microsoft AntiMalware\\Support",
+                "%PROGRAMDATA%\\Microsoft\\Windows Defender\\Support",
+                "%PROGRAMDATA%\\Microsoft\\Windows Defender\\Scans\\History\\Service"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "Microsoft의 Windwos 내장 보안 프로그램"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Signal\\attachments.noindex",
+                "%USERPROFILE%\\AppData\\Roaming\\Signal\\logs",
+                "%USERPROFILE%\\AppData\\Roaming\\Signal\\config.json",
+                "%USERPROFILE%\\AppData\\Roaming\\Signal\\sql"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "보안 및 개인 정보 보호에 중점을 둔 메시징 어플리케이션"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\ESTsoft\\ALYac\\log",
+                "%PROGRAMDATA%\\ESTsoft\\ALYac\\config",
+                "%PROGRAMDATA%\\ESTsoft\\ALYac\\quarantine",
+                "%PROGRAMDATA%\\ESTsoft\\ALYac\\update"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "컴퓨터 바이러스 및 기타 악성 소프트웨어로부터 보호하는 안티바이러스 프로그램"
+            ]
+            
+        }
+    ]
+}

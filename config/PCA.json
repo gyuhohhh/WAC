@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%SYSTEMROOT%\\appcompat\\pca\\PcaAppLaunchDic.txt",
+                "$SYSTEMROOT%\\appcompat\\pca\\PcaGeneralDB*"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows의 어플리케이션 호환성 개선을 목적으로 가지고 있는 파일로, 사용자 활동 추적이 가능"
+            ]
+            
+        }
+    ]
+}

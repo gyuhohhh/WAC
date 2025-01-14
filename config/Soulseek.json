@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\SoulseekQt\\Soulseek Chat Logs",
+                "%USERPROFILE%\\AppData\\Local\\SoulseekQt\\1\\*.dat"
+            ],
+            "category" :[
+                "P2P"
+            ],
+            
+            "contents" : [
+                "파일 공유 및 P2P 네트워크 기반의 음악 공유 프로그램"
+            ]
+        }
+    ]
+}

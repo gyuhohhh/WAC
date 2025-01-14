@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Sublime Text*\\Settings"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "코드 편집기 프로그램"
+            ]
+        }
+    ]
+}

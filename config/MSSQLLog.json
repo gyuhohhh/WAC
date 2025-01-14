@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMFILES%\\Microsoft SQL Server\\*\\MSSQL\\Log"
+            ],
+            "category" :[
+                "Logs"
+            ],
+            
+            "contents" : [
+                "Microsoft의 관계형 데이터베이스 관리 시스템(RDBMS)"
+            ]
+        }
+    ]
+}

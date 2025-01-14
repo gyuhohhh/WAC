@@ -1,0 +1,17 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\SupremoRemoteDesktop\\Log\\*.log",
+                "%PROGRAMDATA%\\SupremoRemoteDesktop\\Inbox"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "원격 제어 및 지원을 위한 소프트웨어"
+            ]
+        }
+    ]
+}

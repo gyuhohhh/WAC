@@ -1,0 +1,20 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Teams\\IndexedDB\\https_teams.microsoft.com_0.indexeddb.leveldb",
+                "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Teams\\Local\\Storage\\leveldb",
+                "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Teams\\Cache",
+                "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Teams\\desktop-config.json",
+                "%USERPROFILE%\\AppData\\Local\\Pacakges\\MicrosoftTeams_*\\LocalCache\\Microsoft\\MSTeams\\Logs"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "Microsoft의 협업 및 커뮤니케이션 플랫폼"
+            ]
+        }
+    ]
+}

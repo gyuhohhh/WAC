@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\SugarSync\\sc1.log",
+                "%USERPROFILE%\\Documents\\SugarSync Shared Folders",
+                "%USERPROFILE%\\Documents\\My SugarSync"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "클라우드 저장 및 파일 동기화 서비스"
+            ]
+        }
+    ]
+}

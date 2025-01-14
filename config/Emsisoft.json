@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\Emsisoft\\Reports\\scan*.txt"
+            ],
+            "category" :[
+                "Antivirus"
+            ],
+            
+            "contents" : [
+                "안티바이러스 및 보안 소프트웨어"
+            ]
+        }
+    ]
+}

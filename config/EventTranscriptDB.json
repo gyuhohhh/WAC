@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%PROGRAMDATA%\\Microsoft\\Diagnosis\\EventTranscript\\EventTranscript.db*",
+                "%USERPROFILE%\\AppData\\Local\\Temp\\Diagnostics"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 이벤트 추적 정보를 저장하는 Event Trace 세션의 기록을 저장하는 데이터베이스 파일"
+            ]
+            
+        }
+    ]
+}

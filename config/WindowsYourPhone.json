@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\Local\\Packages\\Microsoft.YourPhone_*\\LocalCache\\Indexed"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "현재는 Phone Link로 알려진, Windows와 모바일 디바이스 간의 통합을 제공하는 어플리케이션"
+            ]
+        }
+    ]
+}

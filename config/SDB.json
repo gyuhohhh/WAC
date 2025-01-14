@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+               "%SYSTEMROOT%\\apppatch\\Custom\\*.sdb",
+               "%SYSTEMROOT%\\apppatch\\Custom\\Custom64\\*.sdb"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows에서 어플리케이션 호환성 설정을 저장하는 DB로, 사용자 활동 추적에 관한 정보들을 담고 있음"
+            ]
+            
+        }
+    ]
+}

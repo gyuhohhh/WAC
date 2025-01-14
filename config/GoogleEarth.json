@@ -1,0 +1,16 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "%USERPROFILE%\\AppData\\LocalLow\\Google\\GoogleEarth"
+            ],
+            "category" :[
+                "Apps"
+            ],
+            
+            "contents" : [
+                "지구의 3D 가상 모델을 제공하는 Google의 응용 프로그램"
+            ]
+        }
+    ]
+}

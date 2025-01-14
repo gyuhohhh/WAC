@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "source_directory": [
+                "C:\\Boot\\BCD",
+                "C:\\Boot\\BCD.log"
+            ],
+            "category" :[
+                "Windows"
+            ],
+            
+            "contents" : [
+                "Windows의 부트 로더가 부팅을 관리하는 데 사용하는 데이터베이스"
+            ]
+            
+        }
+    ]
+}
